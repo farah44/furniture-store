@@ -1,0 +1,17 @@
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Customer.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Employee.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.R1.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.R2.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.R3.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Order.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Product.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Supplier.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Home.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+E:\Third Year\second sesmster\Database\Task 2\Database proj\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
